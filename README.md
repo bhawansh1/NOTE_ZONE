@@ -4,8 +4,8 @@
 ## How to install and run locally?
 
 ```
-$ git clone https://github.com/gitansh0204/notezonee.git
-$ cd note-zone
+$ git clone 
+$ cd 
 $ npm install
 $ npm run dev
 ```
