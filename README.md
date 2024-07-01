@@ -1,4 +1,4 @@
-# Note-Zone
+# Note_Zone
 [Note-Zone](https://note-taking-reactapp.netlify.app/) - Note-Zone is a user-friendly and efficient note-taking application. Users can easily create, edit, delete and archive notes using the intuitive interface.
 
 ## How to install and run locally?
